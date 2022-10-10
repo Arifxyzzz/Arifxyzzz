@@ -1,0 +1,19 @@
+{
+  "contactOwner": "6281567989943",
+  "ownerNumber": ["6281567989943@s.whatsapp.net"],
+  "botName": "BOT-ARIFXYZ",
+  "ownerName": "Arifxyz",
+  "pathimg": "./temp/logo.jpg",
+  "footer": "ARIFXYZBOT © 2022",
+  "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
+  "payment": {
+    "gopay": {
+      "nomer": "no found",
+      "atas_nama": "no found"
+    },
+    "dana": {
+      "nomer": "6281567989943",
+      "atas_nama": "PXXX HXXXXXX"
+    }
+  }
+}
